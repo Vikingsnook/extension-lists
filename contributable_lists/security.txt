@@ -25,6 +25,7 @@ opckliiodihlmpliejjddbpdjdhdkefm // Lightspeed Location Agent - EHOVE requested
 cokbpgemipiebgbmnnlfboefilmdlonm // Trellix DLP Endpoint Extension
 ifinpabiejbjobcphhaomiifjibpkjlf // LineWize Connect
 epkahbohdeajpadlmelfkenmoeblkpem // LineWize Filter Content Aware
+celjchjgliegnlalhjegfcaacphgdkij // Blocksi AI Web Filter
 echcggldkblhodogklpincgchnpgcdco // Microsoft Purview Extension
 ajbghephkehcmphjmenfpkmjiolhjalk // ThreatDown Browser Phishing Protection
 jmnhicbkdlfeaimeidnpbbmgbgfobpel // ThreatDown Browser Phishing Protection (Edge Add-ons)
