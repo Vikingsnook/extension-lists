@@ -39,6 +39,12 @@ An extension will be rejected if it can:
 - remote-control the browser or mask the user's activity
 - route, tunnel, or disguise network traffic. Consumer VPNs, proxies, and IP or location spoofers are not accepted. Corporate filtering and security agents deployed through an institution's MDM (for example Netskope, iboss, Smoothwall) are fine.
 
+## Rejected vendors
+
+Pull requests adding any extension from the following vendors will be closed without further review, regardless of the specific extension ID submitted:
+
+- **Honorlock** (Honorlock, Inc.) - Honorlock's own leadership confirmed to The New York Times that real student exam recordings are passed to Amazon's engineers to train Rekognition, its facial-detection model, when Honorlock's live proctors flag cases the model gets wrong. That is a use of student biometric/video data beyond the isolated, exam-integrity purpose students consent to, and it is disqualifying for this allowlist regardless of what any individual Honorlock extension ID does technically. See: [Kashmir Hill, "Exam Monitoring Software Flags Students With Disabilities as Cheaters," The New York Times, May 27, 2022](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html).
+
 ## What reviewers check
 
 Reviewers verify the ID, not the description. The description in your pull request is a label, not proof. A reviewer opens the store listing for the exact ID you submitted and confirms the publisher, name, and permissions match your claim. Submitting an ID that belongs to a different product than described will get the pull request closed and the submitter blocked.
