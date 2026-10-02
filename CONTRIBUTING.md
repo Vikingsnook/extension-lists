@@ -43,7 +43,9 @@ An extension will be rejected if it can:
 
 Pull requests adding any extension from the following vendors will be closed without further review, regardless of the specific extension ID submitted:
 
-- **Honorlock** (Honorlock, Inc.) - Honorlock's own leadership confirmed to The New York Times that real student exam recordings are passed to Amazon's engineers to train Rekognition, its facial-detection model, when Honorlock's live proctors flag cases the model gets wrong. That is a use of student biometric/video data beyond the isolated, exam-integrity purpose students consent to, and it is disqualifying for this allowlist regardless of what any individual Honorlock extension ID does technically. See: [Kashmir Hill, "Exam Monitoring Software Flags Students With Disabilities as Cheaters," The New York Times, May 27, 2022](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html).
+- **Honorlock** (Honorlock, Inc.)
+  - Sends students' exam images to Amazon without their consent, breaching the privacy they were promised. See [NYT, May 27, 2022](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html).
+  - Removed students' right to opt out of binding arbitration. The September 2022 Terms of Use let a student opt out within 30 days (§13(g)); the August 2023 revision deleted that clause, so taking a Honorlock-proctored exam binds the student to confidential arbitration with no class action and no jury trial, and the only way to decline is not to take the exam. Compare the [Sept. 2022 Terms of Use](https://honorlock.com/wp-content/uploads/2024/01/Honorlock-Exam-Taker-Terms-of-Use-013024.pdf) ([archived](https://web.archive.org/web/20261002140618/https://honorlock.com/wp-content/uploads/2024/01/Honorlock-Exam-Taker-Terms-of-Use-013024.pdf)) §13(g) to the [Aug. 2023 Terms of Use](https://honorlock.com/wp-content/uploads/2024/09/Honorlock-Test-Taker-Terms-of-Use-0825233.pdf) ([archived](https://web.archive.org/web/20260820194454/https://honorlock.com/wp-content/uploads/2024/09/Honorlock-Test-Taker-Terms-of-Use-0825233.pdf)) §13.
 
 ## What reviewers check
 
